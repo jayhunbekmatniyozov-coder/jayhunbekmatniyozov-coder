@@ -20,14 +20,6 @@
 <img src="https://skillicons.dev/icons?i=html,css,sass,bootstrap,js,git,github" />
 </p>
 
-- **HTML5**
-- **CSS3**
-- **SASS**
-- **Bootstrap**
-- **JavaScript**
-- **Git**
-- **GitHub**
-
 ---
 
 ## 📊 GitHub Stats
